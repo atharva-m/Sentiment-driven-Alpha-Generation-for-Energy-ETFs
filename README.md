@@ -277,7 +277,7 @@ This multi-condition approach reduces whipsaws and aligns hedging with actual ma
 
 ## License
 
-This project is licensed under the Creative Commons Zero v1.0 Universal License - see the [LICENSE]([https://www.github.com/atharva-m/Sentiment-driven-Alpha-Generation-for-Energy-ETFs/LICENSE](https://github.com/atharva-m/Sentiment-driven-Alpha-Generation-for-Energy-ETFs/blob/main/LICENSE)) file for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal License - see the [LICENSE](https://github.com/atharva-m/Sentiment-driven-Alpha-Generation-for-Energy-ETFs/blob/main/LICENSE) file for details.
 
 **Disclaimer**: This software is for educational purposes only. It does not constitute financial advice. The authors are not responsible for any financial losses incurred from the use of this strategy.
 
@@ -287,4 +287,4 @@ This project is licensed under the Creative Commons Zero v1.0 Universal License 
 
 ## Contact
 
-For questions about methodology or implementation details, please open an issue or reach out via [atharvamokashi01@gmail.com].
+For questions about methodology or implementation details, please open an issue or reach out via atharvamokashi01@gmail.com
