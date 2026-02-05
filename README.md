@@ -285,6 +285,14 @@ This project is licensed under the Creative Commons Zero v1.0 Universal License 
 
 ---
 
+## Authors
+- Atharva Mokashi
+- Adarsh Prabhudesai
+- Alina Hasan
+- Sai Dinesh Devineni
+
+---
+
 ## Contact
 
-For questions about methodology or implementation details, please open an issue or reach out via atharvamokashi01@gmail.com
+For questions about methodology or implementation details, please open an issue or reach out via atharvamokashi01@gmail.com, adarshprabhudesai09@gmail.com, saidevineni25@gmail.com, 1alinahasan@gmail.com
